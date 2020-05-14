@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://akfosterdev:$j4qaTzn7&YT@contactkeeper-ccnfr.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "bigsecret"
+}
