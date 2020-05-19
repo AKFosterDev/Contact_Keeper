@@ -28,7 +28,7 @@ const ContactState = props => {
 
   // Get Contacts
   const getContacts = async () => {
-    const config = {};
+    // const config = {};
 
     try {
       const res = await axios.get('/api/contacts');
